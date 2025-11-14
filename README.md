@@ -188,10 +188,17 @@ To reproduce the experimental results:
  ## 5. Citing
  **If you use this code in your research, please cite the CCMoE paper** 
 ```text
-@article{Messlem2025ccmoe,
-  title   = {Chart-Consistent Mixture-of-Experts Policies for Sample-Efficient Continuous Control},
-  author  = {Messlem, Abdelkader and Messlem, Youcef},
-  journal = {manuscript under review at IEEE Transactions},
-  year    = {2025}
+@software{messlem_2025,
+	author       = {Messlem, Abdelkader and
+	Messlem, Youcef},
+	title        = {Chart-Consistent Mixture-of-Experts PPO (CCMoE-
+	PPO)
+	},
+	month        = nov,
+	year         = 2025,
+	publisher    = {Zenodo},
+	version      = {1.0.0},
+	doi          = {10.5281/zenodo.17605495},
+	url          = {https://doi.org/10.5281/zenodo.17605495},
 }
 ```
