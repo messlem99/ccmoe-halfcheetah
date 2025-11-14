@@ -1,4 +1,4 @@
-# ccmoe-halfcheetah
+# Chart-Consistent Mixture-of-Experts Policies for Sample-Efficient Continuous Control
 This repository contains a clean PyTorch implementation of the **Chart-Consistent Mixture-of-Experts PPO (CCMoE-PPO)** and the baselines used in our HalfCheetah-v5 experiments:
 
 - **CCMoE-PPO (proposed)** – chart-consistent mixture-of-experts policy with:
@@ -186,10 +186,10 @@ To reproduce the experimental results:
  > **Again**: reading the paper is necessary if you want to fully understand the process and reproduce the reported results.
 
  ## 5. Citing
- ** If you use this code in your research, please cite the CCMoE paper ** 
+ **If you use this code in your research, please cite the CCMoE paper** 
 ```text
-@article{YOURNAME2025ccmoe,
-  title   = {Chart-Consistent Mixture-of-Experts Policies for Continuous Control},
+@article{Messlem2025ccmoe,
+  title   = {Chart-Consistent Mixture-of-Experts Policies for Sample-Efficient Continuous Control},
   author  = {Messlem, Abdelkader and Messlem, Youcef},
   journal = {manuscript under review at IEEE Transactions},
   year    = {2025}
